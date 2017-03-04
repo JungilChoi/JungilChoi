@@ -2,25 +2,12 @@
 layout: default
 ---
 
+
+
 <div class="home">
-
-  <p class="welcome-title"> Hi, I’m <a href="http://mateussmedeiros.github.io/" target="_blank">{{ site.author.name }}</a>, a Front End Developer. </p>
-
-  <p> I am passionate about what I do and what makes me even happier is the ease of learning more every day. <a href="about">About me...</a></p>
-  
-    <h1 class="page-title"> My Blog </h1>
-
-    <ul class="post-list">
-      {% for post in site.posts limit:2 %}
-        <li class="post-container"> 
-        
-          <p> <span class="post-date"><i>{{ post.date | date: "%-d %b, %Y" }}</i></span> — <a class="post-link" href="{{ post.permalink | prepend: site.baseurl }}">{{ post.title }}</a> — {{ post.content | strip_html | truncatewords: 40  }} <a href="{{ post.permalink | prepend: site.baseurl }}"> Read more... </a> </p>
-
-        </li>
-      {% endfor %}
-    </ul>
-  
-    <a href="blog"> See more in the blog... </a>
-    <p class="rss-subscribe">Subscribe <a aria-label="Subscribe via RSS and receive all new posts" href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a> and receive all new posts</p>
+	
+<h1>Welcome</h1>
+	
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc blandit mattis nulla eu cursus. Fusce finibus, orci sit amet tincidunt fermentum, risus ante pharetra nisi, eget tempus tellus tellus ut est. Nunc tempus cursus arcu mattis ultricies. Cras volutpat purus et lectus facilisis tempor. Suspendisse at lorem feugiat, feugiat massa vel, scelerisque dolor. Proin justo nisl, mattis eu sapien in, efficitur fringilla nulla. Phasellus placerat, lacus in venenatis tristique, risus dolor eleifend felis, vitae finibus augue nibh ut libero. Morbi sit amet tincidunt lorem.</p>
 
 </div>
