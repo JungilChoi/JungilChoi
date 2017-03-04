@@ -1,34 +1,41 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+title: Blade Theme
+description: A simple Jekyll blog theme developed by Mateus Medeiros 
+url: "http://mateussmedeiros.github.io/blade-theme/" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Author settings
+author:
+  name     : Mateus Medeiros
+  bio      : Front End Developer passionate about new technologies. I am passionate about what I do and I try to learn more every day.
+  email    : mateus.sousamedeiros@gmail.com
+  twitter  : https://twitter.com/mateussousam
+
+#SEO settings
+logo: /assets/img/img-blog.png/ # Site logo URL
+twitter_username: mateussousam # Twitter username
+facebook:
+    app_id: 1445035275808959 # App ID
+    publisher: https://www.facebook.com/mateus.sousamedeiros # URL of the Facebook page
+    admins: 100000229048939 # Facebook user ID that manages the page
 
 # Build settings
+permalink: /:title/
 markdown: kramdown
-theme: minima
+paginate: 5
+paginate_path: "/blog/page/:num"
+
 gems:
   - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
 exclude:
   - Gemfile
   - Gemfile.lock
+
+css_folder:  "/assets/css"
+js_folder:  "/assets/js"
+img_folder:  "/assets/img"
+sass:
+    style: compressed
