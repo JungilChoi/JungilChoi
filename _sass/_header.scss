@@ -112,7 +112,7 @@ color: #522d80;
 	-moz-box-shadow: 0 2px 2px rgba(0,0,0,0.4);
 	-webkit-box-shadow: 0 2px 2px rgba(0,0,0,0.4);
 	display: none;
-	right: -10px;
+	left: -10px;
 	padding: 4px 0 3px 0;
 	position: absolute;
 	text-align: left;
@@ -142,12 +142,12 @@ z-index:999;
 
 .site-nav h1 {
 	position: absolute;
-	left: -999em;
+	right: -999em;
 }
 
 
 .site-nav {
-    float: right;
+    float: left;
     line-height: 40px;
 
 
@@ -162,7 +162,7 @@ z-index:999;
 
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
-            margin-left: 20px;
+            margin-right: 20px;
         }
     }
 

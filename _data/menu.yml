@@ -11,9 +11,21 @@
       subhref: "/members/item-1/"
     - subtitle: "Students"
       subhref: "/members/item-2/"
+    - subtitle: "Alumni"
+      subhref: "/members/item-3/"
+
 
 - title: "Publications"
   href: "/publications/"
+
+- title: "Lecture"
+  href: "/lecture/"
+
+- title: "Gallery"
+  href: "/gallery/"
+
+- title: "News"
+  href: "/news/"
 
 - title: "Contact"
   href: "/contact/"
