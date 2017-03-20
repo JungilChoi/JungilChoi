@@ -3,12 +3,12 @@ layout: page
 title: Jung-il Choi
 permalink: /members/item-1/
 ---
-{% include image.html url="/images/octojekyll.png" caption="Octojekyll." width=100 align="left" %}
+<img src="/images/JungilChoi.jpg" class="imgsertoku" width="350px" height="350px" />
+<br>
+### Associate Professor <br>
+Office : +82-2-2123-6129 <br>
+Fax : +82-2-2123-8194 <br>
+Email : jic@yonsei.ac.kr <br>
 
-Jung-il Choi is the professor of the CSE(Conputational Science and Engineering), Yonsei university. 
-
-Research interest ..
-
-Recently, he ...
-
-e-mail : jic@yonsei.ac.kr
+CurriCulum Vitae <br>
+Google Scholar Profile

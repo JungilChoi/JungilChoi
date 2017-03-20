@@ -7,7 +7,7 @@
 - title: "Members"
   href: "/members/"
   subcategories:
-    - subtitle: "Professor"
+    - subtitle: "Faculty"
       subhref: "/members/item-1/"
     - subtitle: "Students"
       subhref: "/members/item-2/"
