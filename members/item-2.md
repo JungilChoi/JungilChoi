@@ -80,7 +80,7 @@ e-mail : mrskull@naver.com
 
 <br>
 
-<img src="/images/octojekyll.png" class="imgsertoku" width="118px" height="157px" />
+<img src="/images/YunYoungChoi.JPG" class="imgsertoku" width="118px" height="157px" />
 <br>
 ### YunYoung Choi (Spring, 2015)
 research interest : research interest
