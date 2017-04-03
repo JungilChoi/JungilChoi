@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Students
+title: Researchers
 permalink: /members/item-2/
 ---
-## PhD degree        
+## PhD degree student        
 <br>
 
 <img src="/images/octojekyll.png" class="imgsertoku" width="118px" height="157px" />
@@ -33,7 +33,7 @@ e-mail : sxltlg2312@gmail.com
 <br>
 <br>
 
-## Integrated(PhD+MS) degree      
+## Integrated(PhD+MS) degree student      
 <br>
 
 <img src="/images/HyunwookPark.jpg" class="imgsertoku" width="118px" height="157px" />
@@ -108,7 +108,7 @@ e-mail :
 <br>
 <br>
 
-## Master degree      
+## Master degree student      
 <br>
 
 <img src="/images/KyungMinNoh.jpg" class="imgsertoku" width="118px" height="157px" />
@@ -131,3 +131,42 @@ office : A.S.T.C. 614
 <br>
 e-mail : 
 
+<br>
+<br>
+
+----------------------
+
+<br>
+<br>
+
+## Post Doctor researcher
+<br>
+
+<img src="/images/JaewookAhn.png" class="imgsertoku" width="118px" height="157px" />
+<br>
+### Jaewook Ahn 
+research interest : research interest
+<br>
+office : 
+<br>
+e-mail :
+
+<br>
+<br>
+
+----------------------
+
+<br>
+<br>
+
+## Post Master researcher
+<br>
+
+<img src="/images/SoominChun.jpg" class="imgsertoku"  width="118px" height="157px" />
+<br>
+### Soomin Chun
+research interest : research interest
+<br>
+office : A.S.T.C. 613
+<br>
+e-mail : catcan@naver.com

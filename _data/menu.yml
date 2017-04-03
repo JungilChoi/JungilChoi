@@ -9,7 +9,7 @@
   subcategories:
     - subtitle: "Faculty"
       subhref: "/members/item-1/"
-    - subtitle: "Students"
+    - subtitle: "Researchers"
       subhref: "/members/item-2/"
     - subtitle: "Alumni"
       subhref: "/members/item-3/"
@@ -21,11 +21,11 @@
 - title: "Lecture"
   href: "/lecture/"
 
-- title: "Gallery"
-  href: "/gallery/"
+# - title: "Gallery"
+#   href: "/gallery/"
 
 - title: "News"
   href: "/news/"
 
-- title: "Contact"
-  href: "/contact/"
+# - title: "Contact"
+#  href: "/contact/"
