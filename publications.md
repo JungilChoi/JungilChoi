@@ -163,7 +163,7 @@ permalink: /publications/
 53.	Joongnyon Kim, **Jung-Il Choi** and Hyung Jin Sung, [Correlation of Near-Wall Streamwise Vortices to Wall Pressure Fluctuations in a Turbulent Boundary Layer](http://www.koreascience.or.kr/article/ArticleFullRecord.jsp?cn=DHGGDU_2001_v25n8_1068), KSME B, Vol. 25, No.8, pp.1068-1076, 2001.
 
 
-54.	Seungtae Kim, **Jung-Il Choi** and Hyung Jin Sung, [Czochralski Crystal Growth by the Accelerated Crystal Rotation Technique], KACG, Vol.8, No.1, pp.18-28, 1998. 
+54.	Seungtae Kim, **Jung-Il Choi** and Hyung Jin Sung, Czochralski Crystal Growth by the Accelerated Crystal Rotation Technique, KACG, Vol.8, No.1, pp.18-28, 1998. 
 
 
 55.	**Jung-Il Choi**, Seungtae. Kim, Hyung Jin Sung, Akifumi Nakano and Hide S. Koyama, [Transition Flow Modes in Czochralski Convection](http://www.sciencedirect.com/science/article/pii/S0022024897002121), Journal of Crystal Growth, Vol.180, pp.305-314, 1997. 
@@ -172,7 +172,7 @@ permalink: /publications/
 56.	**Jung-Il Choi** and Hyung Jin Sung, [Suppression of Temperature Oscillation in Czochralski Convection by Superimposing Rotating Flows](http://www.sciencedirect.com/science/article/pii/S0017931096002165), International Journal of Heat and Mass Transfer, Vol.40, No.7, pp,1667-1675, 1997.
 
 
-57.	**Jung-Il Choi** and Hyung Jin Sung, [Prediction of Transition in Czochralski Process], Vol.7, No.1, pp. 108-116, KACG, 1997.
+57.	**Jung-Il Choi** and Hyung Jin Sung, Prediction of Transition in Czochralski Process, Vol.7, No.1, pp. 108-116, KACG, 1997.
 
 
 58.	**Jung-Il Choi** and Hyung Jin Sung, [Control of Oscillatory Czochralski Convection by ACRT](http://www.koreascience.or.kr/article/ArticleFullRecord.jsp?cn=DHGGDU_1996_v20n7_2397), KSME, Vol.20, No.7, pp.2397-2408, 1996. 
