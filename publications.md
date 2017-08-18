@@ -4,7 +4,7 @@ title: PUBLICATIONS (SCI Journal articles)
 permalink: /publications/
 ---
  
-1.	Jaewook Ahn, **Jung-Il Choi***, Kyungkeun Kang, and Jihye Lim, Analysis of localized damping effects in channel flows with a periodic rough boundary, Applicable Analysis, Online Published, 2017.
+1.	Jaewook Ahn, **Jung-Il Choi***, Kyungkeun Kang, and Jihye Lim, [Analysis of localized damping effects in channel flows with a periodic rough boundary](http://www.tandfonline.com/doi/full/10.1080/00036811.2017.1293818), Applicable Analysis, Online Published, 2017.
  
  
 2.	Jungsun Oh, **Jung-Il Choi***, Sung-Uk Choi, and Christina W. Tasi, Physically-based probabilistic analysis of sediment deposition for sand particles in an open channel flow, ASCE - Journal of Hydraulic Engineering, Online Published, 2017.
