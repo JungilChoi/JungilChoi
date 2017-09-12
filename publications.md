@@ -100,80 +100,80 @@ permalink: /publications/
 32.	Santanu Ghosh, Jung-Il Choi and Jack R. Edwards, [Simulation of Shock Boundary Layer Interactions with Bleed using Immersed Boundary Methods](https://arc.aiaa.org/doi/abs/10.2514/1.45297), Journal of Propulsion and Power, Vol. 26, No.2, pp.203-214, 2010.
 
 
-33.	Santanu Ghosh, **Jung-Il Choi** and Jack R. Edwards, [Numerical Simulations of Effects of Micro Vortex Generators Using Immersed Boundary Methods](https://arc.aiaa.org/doi/abs/10.2514/1.40049), AIAA Journal, Vol. 48, No.1, pp.92-103, 2010.
+33.	Santanu Ghosh, Jung-Il Choi and Jack R. Edwards, [Numerical Simulations of Effects of Micro Vortex Generators Using Immersed Boundary Methods](https://arc.aiaa.org/doi/abs/10.2514/1.40049), AIAA Journal, Vol. 48, No.1, pp.92-103, 2010.
 
 
-34.	**Jung-Il Choi**, Jack R. Edwards and Robert A. Baurle, [Compressible Boundary Layer Predictions at High Reynolds Number using Hybrid LES/RANS Methods](https://arc.aiaa.org/doi/abs/10.2514/1.41598), AIAA Journal, Vol.47, No.9, pp.2179-2193, 2009.
+34.	Jung-Il Choi, Jack R. Edwards and Robert A. Baurle, [Compressible Boundary Layer Predictions at High Reynolds Number using Hybrid LES/RANS Methods](https://arc.aiaa.org/doi/abs/10.2514/1.41598), AIAA Journal, Vol.47, No.9, pp.2179-2193, 2009.
 
 
-35.	**Jung-Il Choi** and Jack R. Edwards, [Large Eddy Simulation and Zonal Modeling of Human-Induced Contaminant Transport](https://www.ncbi.nlm.nih.gov/pubmed/18422965), Indoor Air, Vol.18, No.3, pp.233-249, 2008. 
+35.	Jung-Il Choi and Jack R. Edwards, [Large Eddy Simulation and Zonal Modeling of Human-Induced Contaminant Transport](https://www.ncbi.nlm.nih.gov/pubmed/18422965), Indoor Air, Vol.18, No.3, pp.233-249, 2008. 
 
 
-36.	Jack R. Edwards, **Jung-Il Choi** and John A. Boles, [Hybrid LES/RANS Simulation of a Mach 5 Compression-Corner Interaction](https://arc.aiaa.org/doi/abs/10.2514/6.2008-718), AIAA Journal, Vol.46, No.4, 977-991, 2008. 
+36.	Jack R. Edwards, Jung-Il Choi and John A. Boles, [Hybrid LES/RANS Simulation of a Mach 5 Compression-Corner Interaction](https://arc.aiaa.org/doi/abs/10.2514/6.2008-718), AIAA Journal, Vol.46, No.4, 977-991, 2008. 
 
 
-37.	**Jung-Il Choi** and Chong S. Kim, [Mathematical Analysis of Particle Deposition in Human lungs: An Improved Single-Path Transport Model](https://www.ncbi.nlm.nih.gov/pubmed/17849277), Inhalation Toxicology, Vol.19, No.11, pp.925-939, 2007. 
+37.	Jung-Il Choi and Chong S. Kim, [Mathematical Analysis of Particle Deposition in Human lungs: An Improved Single-Path Transport Model](https://www.ncbi.nlm.nih.gov/pubmed/17849277), Inhalation Toxicology, Vol.19, No.11, pp.925-939, 2007. 
 
 
-38.	**Jung-Il Choi**, Roshan C. Oberoi, Jack R. Edwards and Jacky A. Rosati, [An Immersed Boundary Method for Complex Incompressible Flows](http://www.sciencedirect.com/science/article/pii/S0021999106005481), Journal of Computational Physics, Vol. 224, pp.757-784, 2007.
+38.	Jung-Il Choi, Roshan C. Oberoi, Jack R. Edwards and Jacky A. Rosati, [An Immersed Boundary Method for Complex Incompressible Flows](http://www.sciencedirect.com/science/article/pii/S0021999106005481), Journal of Computational Physics, Vol. 224, pp.757-784, 2007.
 
 
-39.	Younghoon Joung, Sung-Uk Choi and **Jung-Il Choi**, [Direct Numerical Simulation of Turbulent Flow in a Square Duct: an Analysis of Secondary Flows](http://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9399%282007%29133%3A2%28213%29), Journal of Engineering Mechanics-ASCE, Vol.133, pp.213-221, 2007. 
+39.	Younghoon Joung, Sung-Uk Choi and Jung-Il Choi, [Direct Numerical Simulation of Turbulent Flow in a Square Duct: an Analysis of Secondary Flows](http://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9399%282007%29133%3A2%28213%29), Journal of Engineering Mechanics-ASCE, Vol.133, pp.213-221, 2007. 
 
 
-40.	Changhoon Lee, Kyeongmin Yeo and **Jung-Il Choi**, [Intermittent Nature of Acceleration in Near-Wall Turbulence](https://www.ncbi.nlm.nih.gov/pubmed/15089545), Physical Review Letters, Vol.92, No.144502, 2004. 
+40.	Changhoon Lee, Kyeongmin Yeo and Jung-Il Choi, [Intermittent Nature of Acceleration in Near-Wall Turbulence](https://www.ncbi.nlm.nih.gov/pubmed/15089545), Physical Review Letters, Vol.92, No.144502, 2004. 
 
 
-41.	**Jung-Il Choi**, Kyeongmin Yeo and Changhoon Lee, [Lagrangian Statistics in Turbulent Channel Flow](http://aip.scitation.org/doi/abs/10.1063/1.1644576), Physics of Fluids, Vol.16, No.3, pp.779-793, 2004. 
+41.	Jung-Il Choi, Kyeongmin Yeo and Changhoon Lee, [Lagrangian Statistics in Turbulent Channel Flow](http://aip.scitation.org/doi/abs/10.1063/1.1644576), Physics of Fluids, Vol.16, No.3, pp.779-793, 2004. 
 
 
-42.	Chun-Xiao Xu, **Jung-Il Choi** and Hyung Jin Sung, [Identification and Control of Taylor-Görtler Vortices in Turbulent Curved-Channel Flow](https://arc.aiaa.org/doi/abs/10.2514/2.6837), AIAA Journal, Vol.41, No.12, pp.2387-2393, 2003. 
+42.	Chun-Xiao Xu, Jung-Il Choi and Hyung Jin Sung, [Identification and Control of Taylor-Görtler Vortices in Turbulent Curved-Channel Flow](https://arc.aiaa.org/doi/abs/10.2514/2.6837), AIAA Journal, Vol.41, No.12, pp.2387-2393, 2003. 
 
 
-43.	Younghoon Joung, Sung-Uk Choi and **Jung-Il Choi**, [Direct Numerical Simulation of Double Compound Open-Channel Flows](http://www.koreascience.or.kr/article/ArticleFullRecord.jsp?cn=TMHHC2_2003_v23n4Bs109B_305), KSCE, Vol.23, No.4B, pp.305-314, 2003. 
+43.	Younghoon Joung, Sung-Uk Choi and Jung-Il Choi, [Direct Numerical Simulation of Double Compound Open-Channel Flows](http://www.koreascience.or.kr/article/ArticleFullRecord.jsp?cn=TMHHC2_2003_v23n4Bs109B_305), KSCE, Vol.23, No.4B, pp.305-314, 2003. 
 
 
-44.	**Jung-Il Choi** and Changhoon Lee, [Lagrangian Investigation of Turbulent Channel Flow, (I)-An Assessment of Particle Tracking Algorithms-](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE00530691), KSME B, Vol.27, No.7, pp.859-866, 2003. 
+44.	Jung-Il Choi and Changhoon Lee, [Lagrangian Investigation of Turbulent Channel Flow, (I)-An Assessment of Particle Tracking Algorithms-](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE00530691), KSME B, Vol.27, No.7, pp.859-866, 2003. 
 
 
-45.	**Jung-Il Choi** and Changhoon Lee, [Lagrangian Investigation of Turbulent Channel Flow, (II)-Analysis of Lagrangian Statistics-](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE00530692),KSME B, Vol.27, No.7, pp.867-876, 2003
+45.	Jung-Il Choi and Changhoon Lee, [Lagrangian Investigation of Turbulent Channel Flow, (II)-Analysis of Lagrangian Statistics-](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE00530692),KSME B, Vol.27, No.7, pp.867-876, 2003
 
 
-46.	**Jung-Il Choi** and Hyung Jin Sung, [Assessment of Suboptimal Control for Drag Reduction in Turbulent Channel Flow](http://www.tandfonline.com/doi/abs/10.1088/1468-5248/3/1/029), Journal of Turbulence, Vol.3, No.29, pp.1-17, 2002. 
+46.	Jung-Il Choi and Hyung Jin Sung, [Assessment of Suboptimal Control for Drag Reduction in Turbulent Channel Flow](http://www.tandfonline.com/doi/abs/10.1088/1468-5248/3/1/029), Journal of Turbulence, Vol.3, No.29, pp.1-17, 2002. 
 
 
-47.	**Jung-Il Choi**, Chun-Xiao Xu and Hyung Jin Sung, [Drag Reduction by Spanwise Wall Oscillations in Wall-Bounded Turbulent Flows](https://arc.aiaa.org/doi/abs/10.2514/2.1750?journalCode=aiaaj), AIAA Journal, Vol.40, No.5, pp.842-850, 2002. 
+47.	Jung-Il Choi, Chun-Xiao Xu and Hyung Jin Sung, [Drag Reduction by Spanwise Wall Oscillations in Wall-Bounded Turbulent Flows](https://arc.aiaa.org/doi/abs/10.2514/2.1750?journalCode=aiaaj), AIAA Journal, Vol.40, No.5, pp.842-850, 2002. 
 
 
-48.	Chun-Xiao Xu, **Jung-Il Choi** and Hyung Jin Sung, [Suboptimal Control for Drag Reduction in Turbulent Pipe Flow](http://www.sciencedirect.com/science/article/pii/S0169598302000412), Fluid Dynamic Research, Vol.30, No.4, pp 217-231, 2002. 
+48.	Chun-Xiao Xu, Jung-Il Choi and Hyung Jin Sung, [Suboptimal Control for Drag Reduction in Turbulent Pipe Flow](http://www.sciencedirect.com/science/article/pii/S0169598302000412), Fluid Dynamic Research, Vol.30, No.4, pp 217-231, 2002. 
 
 
-49.	Joongnyeon Kim **Jung-Il Choi** and Hyung Jin Sung, [Relationship between Wall Pressure Fluctuations and Streamwise Vortices in a Turbulent Boundary Layer](http://aip.scitation.org/doi/abs/10.1063/1.1429964), Physics of Fluids, Vol.14, No.2, pp.898-901, 2002. 
+49.	Joongnyeon Kim Jung-Il Choi and Hyung Jin Sung, [Relationship between Wall Pressure Fluctuations and Streamwise Vortices in a Turbulent Boundary Layer](http://aip.scitation.org/doi/abs/10.1063/1.1429964), Physics of Fluids, Vol.14, No.2, pp.898-901, 2002. 
 
 
-50.	**Jung-Il Choi** and Hyung Jin Sung, [Control of Turbulent Curved Channel Flow for Drag Reduction](http://www.sciencedirect.com/science/article/pii/S0142727X17300243), KSME B, Vol.26, No.9, pp.1302-1310, 2002. 
+50.	Jung-Il Choi and Hyung Jin Sung, [Control of Turbulent Curved Channel Flow for Drag Reduction](http://www.sciencedirect.com/science/article/pii/S0142727X17300243), KSME B, Vol.26, No.9, pp.1302-1310, 2002. 
 
 
-51.	**Jung-Il Choi**, Chun-Xiao Xu and Hyung Jin Sung, [Suboptimal Control in Turbulent Pipe Flow](http://www.sciencedirect.com/science/article/pii/S0169598302000412), KSME B, Vol.26, No.2, pp.345-352, 2002. 
+51.	Jung-Il Choi, Chun-Xiao Xu and Hyung Jin Sung, [Suboptimal Control in Turbulent Pipe Flow](http://www.sciencedirect.com/science/article/pii/S0169598302000412), KSME B, Vol.26, No.2, pp.345-352, 2002. 
 
 
-52.	**Jung-Il Choi** and Hyung Jin Sung, [Evaluation of Suboptimal Control in Turbulent Channel Flow](http://www.koreascience.or.kr/article/ArticleFullRecord.jsp?cn=DHGGDU_2001_v25n9_1227), KSME B, Vol.25, No.9, pp.1227-1236, 2001.
+52.	Jung-Il Choi and Hyung Jin Sung, [Evaluation of Suboptimal Control in Turbulent Channel Flow](http://www.koreascience.or.kr/article/ArticleFullRecord.jsp?cn=DHGGDU_2001_v25n9_1227), KSME B, Vol.25, No.9, pp.1227-1236, 2001.
 
 
-53.	Joongnyon Kim, **Jung-Il Choi** and Hyung Jin Sung, [Correlation of Near-Wall Streamwise Vortices to Wall Pressure Fluctuations in a Turbulent Boundary Layer](http://www.koreascience.or.kr/article/ArticleFullRecord.jsp?cn=DHGGDU_2001_v25n8_1068), KSME B, Vol. 25, No.8, pp.1068-1076, 2001.
+53.	Joongnyon Kim, Jung-Il Choi and Hyung Jin Sung, [Correlation of Near-Wall Streamwise Vortices to Wall Pressure Fluctuations in a Turbulent Boundary Layer](http://www.koreascience.or.kr/article/ArticleFullRecord.jsp?cn=DHGGDU_2001_v25n8_1068), KSME B, Vol. 25, No.8, pp.1068-1076, 2001.
 
 
-54.	Seungtae Kim, **Jung-Il Choi** and Hyung Jin Sung, Czochralski Crystal Growth by the Accelerated Crystal Rotation Technique, KACG, Vol.8, No.1, pp.18-28, 1998. 
+54.	Seungtae Kim, Jung-Il Choi and Hyung Jin Sung, Czochralski Crystal Growth by the Accelerated Crystal Rotation Technique, KACG, Vol.8, No.1, pp.18-28, 1998. 
 
 
-55.	**Jung-Il Choi**, Seungtae. Kim, Hyung Jin Sung, Akifumi Nakano and Hide S. Koyama, [Transition Flow Modes in Czochralski Convection](http://www.sciencedirect.com/science/article/pii/S0022024897002121), Journal of Crystal Growth, Vol.180, pp.305-314, 1997. 
+55.	Jung-Il Choi, Seungtae. Kim, Hyung Jin Sung, Akifumi Nakano and Hide S. Koyama, [Transition Flow Modes in Czochralski Convection](http://www.sciencedirect.com/science/article/pii/S0022024897002121), Journal of Crystal Growth, Vol.180, pp.305-314, 1997. 
 
 
-56.	**Jung-Il Choi** and Hyung Jin Sung, [Suppression of Temperature Oscillation in Czochralski Convection by Superimposing Rotating Flows](http://www.sciencedirect.com/science/article/pii/S0017931096002165), International Journal of Heat and Mass Transfer, Vol.40, No.7, pp,1667-1675, 1997.
+56.	Jung-Il Choi and Hyung Jin Sung, [Suppression of Temperature Oscillation in Czochralski Convection by Superimposing Rotating Flows](http://www.sciencedirect.com/science/article/pii/S0017931096002165), International Journal of Heat and Mass Transfer, Vol.40, No.7, pp,1667-1675, 1997.
 
 
-57.	**Jung-Il Choi** and Hyung Jin Sung, Prediction of Transition in Czochralski Process, Vol.7, No.1, pp. 108-116, KACG, 1997.
+57.	Jung-Il Choi and Hyung Jin Sung, Prediction of Transition in Czochralski Process, Vol.7, No.1, pp. 108-116, KACG, 1997.
 
 
-58.	**Jung-Il Choi** and Hyung Jin Sung, [Control of Oscillatory Czochralski Convection by ACRT](http://www.koreascience.or.kr/article/ArticleFullRecord.jsp?cn=DHGGDU_1996_v20n7_2397), KSME, Vol.20, No.7, pp.2397-2408, 1996. 
+58.	Jung-Il Choi and Hyung Jin Sung, [Control of Oscillatory Czochralski Convection by ACRT](http://www.koreascience.or.kr/article/ArticleFullRecord.jsp?cn=DHGGDU_1996_v20n7_2397), KSME, Vol.20, No.7, pp.2397-2408, 1996. 
 
